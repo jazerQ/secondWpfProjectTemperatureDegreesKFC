@@ -1,0 +1,31 @@
+﻿<Window x:Class="temperatureDegrees.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:temperatureDegrees"
+        mc:Ignorable="d"
+        Title="Преобразователь температуры" Height="450" Width="800" FontFamily="Comic Sans MS" WindowStyle="ToolWindow" Icon="/LETIcon.png" >
+
+    <Grid Background="Azure">
+
+        <Label Background="Coral" Content="Температура" HorizontalAlignment="Left" Margin="124,75,0,0" VerticalAlignment="Top" Width="87"/>
+        <TextBox x:Name="TBox" HorizontalAlignment="Left" Margin="108,107,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Background="Coral" Content="Единица измерения" HorizontalAlignment="Left" Margin="288,75,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.515,0.523" Width="126"/>
+        <ComboBox x:Name="CBox1" HorizontalAlignment="Left" Margin="291,105,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="2">
+            <ComboBoxItem Content="°K"/>
+            <ComboBoxItem Content="°C"/>
+            <ComboBoxItem Content="°F"/>
+        </ComboBox>
+        <Label Background="Cyan"  Content="Пересчитать в:" HorizontalAlignment="Left" Margin="490,75,0,0" VerticalAlignment="Top" Width="106"/>
+        <ComboBox x:Name="CBox2" HorizontalAlignment="Left" Margin="483,105,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="1">
+            <ComboBoxItem Content="°K"/>
+            <ComboBoxItem Content="°C"/>
+            <ComboBoxItem Content="°F"/>
+        </ComboBox>
+        <Button x:Name="btn" Background="Aquamarine" Content="Высчитать!" HorizontalAlignment="Left" Margin="644,90,0,0" VerticalAlignment="Top" Height="53" Width="89" Cursor="Hand"/>
+        <Label x:Name="Result" HorizontalAlignment="Left" Margin="288,275,0,0" VerticalAlignment="Top" Width="181" Height="51"/>
+        <Label x:Name="WasHiddenLabel" Content="Ваши значения: " HorizontalAlignment="Left" Margin="359,217,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.432,0.638" Opacity="0"/>
+
+    </Grid>
+</Window>

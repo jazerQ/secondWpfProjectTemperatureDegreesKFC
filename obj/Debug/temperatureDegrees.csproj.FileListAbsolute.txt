@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\temperatureDegrees\temperatureDegrees\bin\Debug\temperatureDegrees.exe.config
+C:\Users\user\source\repos\temperatureDegrees\temperatureDegrees\bin\Debug\temperatureDegrees.exe
+C:\Users\user\source\repos\temperatureDegrees\temperatureDegrees\bin\Debug\temperatureDegrees.pdb
+C:\Users\user\source\repos\temperatureDegrees\temperatureDegrees\obj\Debug\temperatureDegrees.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\temperatureDegrees\temperatureDegrees\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\temperatureDegrees\temperatureDegrees\obj\Debug\App.g.cs
+C:\Users\user\source\repos\temperatureDegrees\temperatureDegrees\obj\Debug\temperatureDegrees_MarkupCompile.cache
+C:\Users\user\source\repos\temperatureDegrees\temperatureDegrees\obj\Debug\temperatureDegrees_MarkupCompile.lref
+C:\Users\user\source\repos\temperatureDegrees\temperatureDegrees\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\temperatureDegrees\temperatureDegrees\obj\Debug\temperatureDegrees.g.resources
+C:\Users\user\source\repos\temperatureDegrees\temperatureDegrees\obj\Debug\temperatureDegrees.Properties.Resources.resources
+C:\Users\user\source\repos\temperatureDegrees\temperatureDegrees\obj\Debug\temperatureDegrees.csproj.GenerateResource.cache
+C:\Users\user\source\repos\temperatureDegrees\temperatureDegrees\obj\Debug\temperatureDegrees.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\temperatureDegrees\temperatureDegrees\obj\Debug\temperatureDegrees.exe
+C:\Users\user\source\repos\temperatureDegrees\temperatureDegrees\obj\Debug\temperatureDegrees.pdb
